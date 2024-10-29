@@ -1,0 +1,34 @@
+/* Navbar */
+.navbar {
+    background-color: #4B0A39 !important;
+}
+
+.navbar-brand, .nav-link {
+    color: #d42626 !important;
+}
+
+.navbar-brand:hover, .nav-link:hover {
+    color: #FFD700 !important;
+}
+
+/* Sección de Presentación */
+.card {
+    background-color: #244c77;
+}
+
+.btn-primary {
+    background-color: #4B0A39;
+    border: none;
+}
+
+/* Galería de Imágenes */
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+
+/* Sección de Descripciones */
+.card-title {
+    font-weight: bold;
+}
